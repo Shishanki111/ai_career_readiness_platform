@@ -1,0 +1,29 @@
+AI/ML Intern
+
+We are looking for an AI/ML Intern to join our team and work on machine learning and artificial intelligence projects.
+
+Responsibilities:
+- Develop and test machine learning models.
+- Clean and preprocess datasets.
+- Perform data analysis and feature engineering.
+- Build and evaluate classification and regression models.
+- Develop APIs for machine learning applications.
+- Explore LLM and Generative AI based solutions.
+- Work with the team to build and improve AI applications.
+
+Requirements:
+- Good knowledge of Python programming.
+- Understanding of Machine Learning concepts.
+- Experience with Pandas, NumPy and Scikit-learn.
+- Knowledge of SQL and databases.
+- Basic understanding of FastAPI or REST APIs.
+- Familiarity with LLMs, NLP and Generative AI.
+- Good problem-solving and communication skills.
+
+Preferred:
+- Experience building and deploying ML projects.
+- Knowledge of Git and GitHub.
+- Understanding of cloud or deployment platforms.
+
+Education:
+- Currently pursuing a Bachelor's degree in Computer Science, Data Science, Artificial Intelligence or a related field.
