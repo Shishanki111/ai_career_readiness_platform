@@ -1,3 +1,5 @@
+from resume_parser import extract_resume_text
+
 skills = [
     "python",
     "sql",
@@ -49,3 +51,12 @@ jd_skills = extract_skills(jd_text)
 
 print("Skills found in Job Description:")
 print(jd_skills)
+
+
+
+resume_text = extract_resume_text("data/General CV Template.pdf")
+
+resume_skills = extract_skills(resume_text)
+
+print("Skills found in Resume:")
+print(resume_skills)
