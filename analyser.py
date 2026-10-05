@@ -60,3 +60,26 @@ resume_skills = extract_skills(resume_text)
 
 print("Skills found in Resume:")
 print(resume_skills)
+
+matching_skills = []
+
+missing_skills = []
+
+for skill in jd_skills:
+    if skill in resume_skills:
+        matching_skills.append(skill)
+    else:
+        missing_skills.append(skill)
+
+print("\nMatching Skills:")
+print(matching_skills)
+
+print("\nMissing Skills:")
+print(missing_skills)
+
+
+# Calculate Resume Match Score
+match_score = (len(matching_skills) / len(jd_skills)) * 100
+
+print("\nResume Match Score:")
+print(round(match_score, 2), "%")
